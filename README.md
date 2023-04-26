@@ -8,4 +8,5 @@ To try out this repo, you need to use [Android Studio](https://developer.android
 
 🧬 Internet Connectivity 
 
-<video src='sample/demo.mp4' width=180 />
+https://user-images.githubusercontent.com/22379988/234553896-7af9dbfe-12d5-41f2-a9dd-b890e09db9c7.mp4
+
